@@ -1,0 +1,3 @@
+dist/css/*              app/webroot/css/
+dist/img/*              app/webroot/img/
+dist/js/*               app/webroot/js/

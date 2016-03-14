@@ -1,3 +1,6 @@
-dist/css/*              app/webroot/css/
-dist/img/*              app/webroot/img/
-dist/js/*               app/webroot/js/
+dist/css/AdminLTE.min.css               app/webroot/css/AdminLTE.min.css
+dist/css/skins/skin-purple.min.css      app/webroot/css/skins/skin-purple.min.css
+dist/img/*                              app/webroot/img/
+dist/js/*                               app/webroot/js/
+plugins/*                               app/webroot/js/plugins/
+bootstrap/*                             app/webroot/js/bootstrap/
